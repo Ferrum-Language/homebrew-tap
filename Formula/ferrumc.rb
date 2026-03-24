@@ -2,7 +2,7 @@ class Ferrumc < Formula
   desc "Ferrum-language compiler — systems programming with compile-time memory safety"
   homepage "https://ferrum-language.github.io/Ferrum/"
   version "0.3.0"
-  license "MIT"
+  license "GPL-3.0-only"
 
   on_macos do
     on_arm do
